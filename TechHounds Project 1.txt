@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Joey Rotelli</title>
+	</head>
+	<body>
+		<h1><u>Joey Rotelli</u></h1>
+		<p>1. Video Games
+		 2. Food</a>
+		 3. Phil Swift and the Flex Family of products
+		 4. TV
+		 5. Movies</p>
+	</body>
+	<style>
+		p {background:#FFB266}
+	</style>
+</html>
